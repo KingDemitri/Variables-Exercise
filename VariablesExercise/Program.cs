@@ -23,8 +23,11 @@
             Console.WriteLine($"I listen to music on spotify, but it should be a capital {Spotify}.");
             Console.WriteLine($"This is {x}.");
             Console.WriteLine($"A lot of digits for Pi are {longpi}.");
-            Console.WriteLine($"It is usually abbreviated to {lifeofpi}."
-   
+            Console.WriteLine($"It is usually abbreviated to {lifeofpi}.");
+
+            Console.WriteLine("or");
+
+            Console.WriteLine($"My name is {name}, I feel {a} years old. I listen to music on spotify, but it should be a capital {Spotify}. This is {x}. A lot of digits for Pi are {longpi}. It is usually abbreviated to {lifeofpi}."
                 );
 
 
